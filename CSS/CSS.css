@@ -1,0 +1,41 @@
+#watermark {
+  opacity:0.20;
+  position: fixed;
+  width: 50%;
+  height: 50%;
+  margin: 0;
+  z-index: -1;
+  left:50%;
+  top:175px;
+}
+.body {
+  font-family: verdana;
+}
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+#footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    font-size: 1;
+}
+
+.rotateimg90 {
+  transform: rotate(90deg);
+  height: 125px;
+  width: 175px;
+}
